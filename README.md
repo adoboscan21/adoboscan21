@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/C_d6sEjD6p2sU/giphy.gif" width="300"/>
-  <h1 align="center">Hola, soy Adonay Boscán 👋</h1>
-  <h3 align="center">Desarrollador Full-Stack | Infraestructura | Automatización</h3>
+  <h1 align="center">Hello, I'm Adonay Boscán 👋</h1>
+  <h3 align="center">Full-Stack Developer | Infrastructure | Automation</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/adonay-bosc%C3%A1n-a965342a4/">
@@ -15,13 +15,13 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 👨‍💻 About Me
 
-Soy un **profesional con siete años de experiencia en el diseño y desarrollo de software**, apasionado por construir soluciones robustas y escalables. Mi enfoque se centra en la eficiencia y la calidad del código, siempre buscando las mejores prácticas y tecnologías emergentes para resolver desafíos complejos.
+I am a **professional with seven years of experience in software design and development**, passionate about building robust and scalable solutions. My focus is on efficiency and code quality, always seeking best practices and emerging technologies to solve complex challenges.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -42,15 +42,15 @@ Soy un **profesional con siete años de experiencia en el diseño y desarrollo d
 
 ---
 
-### 💼 Experiencia y Certificaciones
+### 💼 Experience & Certifications
 
--   **Desarrollo de Software:** 7 años de experiencia, con dominio en **Python**, **Go**, **TypeScript/JavaScript**. Experto en la creación de APIs RESTful con **ExpressJS** e interfaces modernas con **Vite/Next.js**.
--   **Infraestructura y Redes:** 10 años de experiencia en **S.O. tipo Unix** y **Windows Server**. Gestión de infraestructura, automatización, CI/CD y **Docker**.
--   **Certificaciones:** Certificado **CCNA 1, 2, 3** (Cisco Certified Network Associate) y experiencia en administración de dispositivos **Mikrotik**.
+-   **Software Development:** 7 years of experience, proficient in **Python**, **Go**, and **TypeScript/JavaScript**. Expert in building RESTful APIs with **ExpressJS** and modern UIs with **Vite/Next.js**.
+-   **Infrastructure & Networks:** 10 years of experience with **Unix-like OS** and **Windows Server**. Skilled in infrastructure management, automation, CI/CD, and **Docker**.
+-   **Certifications:** **CCNA 1, 2, 3 Certified** (Cisco Certified Network Associate) and experienced in **Mikrotik** device administration.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
 <table>
 <tr>
@@ -58,12 +58,12 @@ Soy un **profesional con siete años de experiencia en el diseño y desarrollo d
   <h3 align="center">Memory Tools</h3>
   <div align="center">
     <br>
-    <img src="https://images.unsplash.com/photo-1667372459510-55b5e2087cd0?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="90" alt="Database Icon">
+    <img src="https://cdn-icons-png.flaticon.com/512/2921/2921121.png" width="90" alt="Database Icon">
     <br><br>
-    <p>Almacén de documentos y clave-valor en memoria de alto rendimiento, diseñado para velocidad, seguridad y escalabilidad.</p>
+    <p>A high-performance, sharded in-memory key-value and document store designed for speed, security, and scalability.</p>
     <p>
       <a href="https://github.com/adoboscan21/Memory-Tools" target="_blank">
-        <img src="https://img.shields.io/badge/VER_CÓDIGO-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/VIEW_CODE-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </p>
     <p>
@@ -73,12 +73,12 @@ Soy un **profesional con siete años de experiencia en el diseño y desarrollo d
   </div>
 </td>
 <td width="50%" valign="top">
-  <h3 align="center">Intranet Grupo San Simón</h3>
+  <h3 align="center">San Simón Group Intranet</h3>
   <div align="center">
     <br>
     <img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="85" alt="Intranet Icon">
     <br><br>
-    <p>Aplicación en esquema de microservicios para la gestión interna del grupo empresarial.</p>
+    <p>Application built in a microservices scheme for the group's internal management.</p>
     <p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -90,12 +90,12 @@ Soy un **profesional con siete años de experiencia en el diseño y desarrollo d
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3 align="center">App de Pagos: T. Perrotta</h3>
+  <h3 align="center">Payment App: T. Perrotta</h3>
   <div align="center">
     <br>
     <img src="https://cdn-icons-png.flaticon.com/512/438/438526.png" width="85" alt="Payment Icon">
     <br><br>
-    <p>Plataforma para la gestión de pagos y servicios de la empresa de telecomunicaciones.</p>
+    <p>Platform for managing payments and services for the telecommunications company.</p>
     <p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
@@ -111,18 +111,18 @@ Soy un **profesional con siete años de experiencia en el diseño y desarrollo d
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adoboscan21&show_icons=true&locale=es&theme=dracula&line_height=27" alt="Estadísticas de Adonay Boscán"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoboscan21&layout=compact&locale=es&theme=dracula" alt="Top Lenguajes de Adonay"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adoboscan21&show_icons=true&locale=en&theme=dracula&line_height=27" alt="Adonay Boscán's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoboscan21&layout=compact&locale=en&theme=dracula" alt="Adonay's Top Languages"/>
 </div>
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
-¿Interesado en colaborar o tienes alguna pregunta? No dudes en contactarme. Será un placer conectar.
+Interested in collaborating or have a question? Feel free to reach out. I'd be happy to connect.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/adonay-bosc%C3%A1n-a965342a4/">
