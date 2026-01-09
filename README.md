@@ -109,17 +109,6 @@ I am a **professional with seven years of experience in software design and deve
 </tr>
 </table>
 
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adoboscan21&show_icons=true&locale=en&theme=dracula&line_height=27" alt="Adonay Boscán's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoboscan21&layout=compact&locale=en&theme=dracula" alt="Adonay's Top Languages"/>
-</div>
-
----
-
 ### 📫 Contact
 
 Interested in collaborating or have a question? Feel free to reach out. I'd be happy to connect.
